@@ -1,7 +1,8 @@
 # GreenGarden
 
-## Susanne & Philip
+```
+Susanne & Philip - 2019
 
 ```
-2019
-```
+
+Prototype program
