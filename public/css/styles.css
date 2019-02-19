@@ -93,7 +93,7 @@ nav ul a {
   }
 }
 
-/*Information table from fetched data*/
+/*Information table from fetched data style*/
 table,
 th,
 td {
@@ -114,4 +114,19 @@ td {
 }
 #info-bar:hover {
   background-color: #7bac66;
+}
+
+/*Cannvas hummidity indicator style */
+#container {
+  width: 100px;
+  height: 100px;
+
+  margin: 0px auto;
+  text-align: center;
+}
+#canvas {
+  position: absolute;
+  top: 73%;
+  left: 55%;
+  transform: translate(-50%, -50%);
 }

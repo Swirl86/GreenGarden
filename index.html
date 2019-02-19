@@ -10,7 +10,7 @@
       type="image/ico"
       href="./public/img/favicon.ico"
     />
-    <script src="scripts/main.js" type="text/javascript"></script>
+    <script src="scripts/script.js" type="text/javascript"></script>
   </head>
 
   <body>
@@ -20,6 +20,7 @@
       </div>
     </header>
 
+    <!–– ******** Main information table Section  ******** //-->
     <main>
       <br />
       <div class="innertube" ALIGN="CENTER">
@@ -48,6 +49,7 @@
       </div>
     </main>
 
+    <!–– ******** Side Nav Section  ******** //-->
     <nav id="nav">
       <div class="innertube">
         <h1>Time</h1>
@@ -71,6 +73,36 @@
       </div>
     </nav>
 
+    <!–– ******** Canvas Section  ******** //-->
+    <div id="container">
+      <canvas id="canvas" width="300" height="300">
+        <script>
+          var canvas = document.getElementById("canvas");
+          var ctx = canvas.getContext("2d");
+          var cw = canvas.width;
+          var ch = canvas.height;
+
+          var PI = Math.PI;
+          var PI2 = PI * 2;
+          var cx = 150;
+          var cy = 150;
+          var r = 80;
+          var min = PI * 0.6;
+          var max = PI2 + PI * 0.4;
+          var percent = 50;
+
+          ctx.lineCap = "round";
+          ctx.font = "bold 24px verdana";
+          ctx.textAlign = "center";
+          ctx.textBaseline = "middle";
+          ctx.fillStyle = "black";
+
+          drawGuage();
+        </script>
+      </canvas>
+    </div>
+
+    <!–– Footer Section  //-->
     <footer id="footer" ALIGN="RIGHT">
       <div class="innertube">
         <p>
