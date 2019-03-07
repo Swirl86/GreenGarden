@@ -39,14 +39,14 @@
           <tr id="info-bar-header">
             <th>Date</th>
             <th>Time</th>
-            <th>Humidity Value</th>
-            <th>Watered Last</th>
+            <th>Moisture Value</th>
+            <th>Watered</th>
           </tr>
           {% for item in sensor %}
           <tr id="info-bar">
             <td>{{ item.Date }}</td>
             <td>{{ item.Time }}</td>
-            <td>{{ item.Humidity }}</td>
+            <td>{{ item.Moisture }}</td>
             <td>{{ item.Watered }}</td>
           </tr>
           {% endfor %}
