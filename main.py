@@ -15,9 +15,9 @@ def home():
 
     filedata = []
 
-    f = open("static/test.txt")
+    f = open("../data.txt")
 
-    with open('static/test.txt') as fp:  # NOTERA: update filepath
+    with open('../data.txt') as fp:  # NOTERA: update filepath
         for line in fp:
             str = line
             dataarray = str.split(',')
