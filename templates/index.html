@@ -3,6 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Refresh every 30 minutes = 1800 seconds -->
+    <meta http-equiv="Refresh" content="10">
     <title>Smart agriculture</title>
     <link
       rel="stylesheet"
@@ -14,7 +16,8 @@
       type="image/ico"
       href="{{ url_for('static',filename='img/favicon.ico') }}"
     />
-    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.4.8/socket.io.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
  </head>
 
   <body
@@ -78,29 +81,9 @@
         <div id="pi-data-here"></div>
       </div>
     </nav>
-
-    <!-- ******** Script section fetch data test ******** -->
-    <!-- <script>
-      $(document).ready(function() {
-        var interval = 500; //number of milli seconds between each call
-        var refresh = function() {
-          $.ajax({
-            url: "./return_temp.py",
-            cache: false,
-            success: function(html) {
-              $("#pi-data-here").html(html);
-              setTimeout(function() {
-                refresh();
-              }, interval);
-            }
-          });
-        };
-        refresh();
-      });
-    </script> -->
-
+    
     <!--  Footer Section  -->
-    <footer id="footer" ALIGN="RIGHT">
+    <footer id="footer">
       <div class="innertube">
         <p>
           <b>

@@ -1,26 +1,23 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 
-# https://stackoverflow.com/questions/10752055/cross-origin-requests-are-only-supported-for-http-error-when-loading-a-local
-# http://flask.pocoo.org/docs/1.0/quickstart/#static-files
-# Run command: python main.py
-
-
-from flask import Flask, json, request
-from flask import render_template
-from flask import redirect, url_for
-import time
+from flask import Flask, render_template, json, request
 from threading import Thread
+import time
+
 
 app = Flask(__name__)  # Construct an instance of Flask class for our webapp
+app.config['SECRET_KEY'] = 'mysecret'
 
 
 @app.route("/")  # URL '/' to be handled by main() route handler
 def home():
-    # Waiter().start()  # Vänta 30min
 
     filedata = []
-    with open('static/test.txt') as fp:  # NOTERA: uppdatera filvägen
+
+    f = open("static/test.txt")
+
+    with open('static/test.txt') as fp:  # NOTERA: update filepath
         for line in fp:
             str = line
             dataarray = str.split(',')
@@ -37,17 +34,12 @@ def home():
             }
             filedata.append(theData)
 
+    f.close()
+
     return render_template('index.html', sensor=filedata)
-
-
-# class Waiter(Thread):
-#     def run(self):
-#         x = 0
-#         while x <= 180:
-#             time.sleep(10)
-#             x += 1
 
 
 if __name__ == "__main__":  # Script executed directly?
     # Launch built-in web server and run this Flask webapp
-    app.run(use_reloader=True, debug=True)
+    app.run(host='localhost', port=8080, debug=False,
+            threaded=True, use_reloader=False)
