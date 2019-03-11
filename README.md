@@ -45,3 +45,5 @@ localhost:8080
 ## License
 
 Files in this repository fall under The [MIT License](https://opensource.org/licenses/MIT) and the [GNU General Public License License](https://www.gnu.org/licenses/gpl-3.0.html), version 3.0.
+
+(c) Susanne J. Hultgren & Philip Tennevall 2019
