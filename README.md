@@ -32,9 +32,9 @@ localhost:8080
 > This program was developed for our bachelor thesis,
 > Bachelor’s Degree in Software Engineering -
 > Blekinge Institute of Technology.
-> By using moisture sensor data is collected
+> By using moisture sensors, data is collected
 > and calculated to get the average value of the sensors.
-> If the value is above the set limit value, the pumps will water the plant.
+> If the value is above the a set limit value, the pumps will water the plant.
 
 ### Todos
 
