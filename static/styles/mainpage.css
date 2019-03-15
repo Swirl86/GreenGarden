@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  overflow: auto;
   height: 100%;
   max-height: 100%;
   font-family: Sans-serif;
@@ -14,7 +14,7 @@ main {
   bottom: 70px; /* Height of the footer */
   left: 160px;
   right: 0;
-  overflow: auto;
+  overflow: auto; /* Able to scroll down when tp mutch information is fetch for one page */
   background: rgb(194, 235, 190);
 }
 
@@ -26,7 +26,7 @@ main {
   height: 300px;
   overflow: hidden; /* Disables scrollbars on the header frame. To enable scrollbars, change "hidden" to "scroll" */
   background-attachment: fixed;
-  background: url("../img/garden.jpg");
+  /* background-image: url("/static/img/garden.jpg"); */
   /*background-size: auto; */
   background-size: contain;
 }
@@ -36,23 +36,30 @@ main {
   left: 0;
   bottom: 0;
   width: 100%;
-  height: 70px;
+  height: 80px;
   overflow: hidden; /* Disables scrollbars on the footer frame. To enable scrollbars, change "hidden" to "scroll" */
   background: #a8db92;
 }
-
+#footer p {
+  /* display: table-cell; */
+  font-size: 0.9em;
+  text-align: center;
+  bottom: 0;
+  vertical-align: bottom;
+}
 #nav {
   position: absolute;
   top: 300px; /* Height of the header */
   bottom: 70px; /* Height of the footer */
   left: 0;
   width: 160px;
-  overflow: auto; /* Scrollbars will appear on this frame only when there's enough content to require scrolling. To disable scrollbars, change to "hidden", or use "scroll" to enable permanent scrollbars */
+  overflow: hidden; /* Scrollbars will appear on this frame only when there's enough content to require scrolling. To disable scrollbars, change to "hidden", or use "scroll" to enable permanent scrollbars */
   background: #76b75b;
 }
 
 .innertube {
   margin: 25px; /* Provides padding for the content */
+  overflow: hidden;
 }
 
 p {
@@ -112,21 +119,9 @@ td {
   font-size: 20px;
   background-color: #0d9b7c;
 }
-#info-bar:hover {
+/* #info-bar:hover {
   background-color: #7bac66;
-}
-
-/*Cannvas hummidity indicator style */
-#container {
-  width: 100px;
-  height: 100px;
-
-  margin: 0px auto;
-  text-align: center;
-}
-#canvas {
-  position: absolute;
-  top: 73%;
-  left: 55%;
-  transform: translate(-50%, -50%);
+} */
+tr:nth-child(even) {
+  background-color: #7bac66;
 }
