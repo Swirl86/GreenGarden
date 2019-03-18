@@ -13,27 +13,33 @@ app.config['SECRET_KEY'] = 'mysecret'
 @app.route("/")  # URL '/' to be handled by main() route handler
 def home():
 
+    count = 0
+    getDataRow = []
     filedata = []
 
     f = open("../data.txt")
 
-    with open('../data.txt') as fp:  # NOTERA: update filepath
-        for line in fp:
-            str = line
-            dataarray = str.split(',')
-            it = iter(dataarray)
-            ID1 = it.next()
-            ID2 = it.next()
-            ID3 = it.next()
-            ID4 = it.next()
-            theData = {
-                'Date': ID2,
-                'Time': ID3,
-                'Moisture': ID1,
-                'Watered': ID4
-            }
-            filedata.append(theData)
-
+    with open('../data.txt') as fp:  # Note: update filepath
+        for i in fp:
+            str = i
+            dataarray = str[str.index(': ') + 1:].split("\n")
+            getDataRow.append(dataarray)
+            if count == 3:
+                ID1 = getDataRow[0][: -1]
+                ID2 = getDataRow[1][: -1]
+                ID3 = getDataRow[2][: -1]
+                ID4 = getDataRow[3][: -1]
+                theData = {
+                    'Date': ID2,
+                    'Time': ID3,
+                    'Moisture': ID1,
+                    'Watered': ID4
+                }
+                filedata.append(theData)
+                count = 0
+                getDataRow = []  # Reset to empty
+            else:
+                count += 1
     f.close()
 
     return render_template('index.html', sensor=filedata)
