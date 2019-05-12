@@ -1,0 +1,2219 @@
+Moisture: 348
+Date: 2019-04-19
+Time: 09:17Moisture: 344
+Date: 2019-04-19
+Time: 09:47Moisture: 342
+Date: 2019-04-19
+Time: 10:17Moisture: 342
+Date: 2019-04-19
+Time: 10:47Moisture: 342
+Date: 2019-04-19
+Time: 11:17Moisture: 341
+Date: 2019-04-19
+Time: 11:47Moisture: 342
+Date: 2019-04-19
+Time: 12:17Moisture: 342
+Date: 2019-04-19
+Time: 12:47Moisture: 342
+Date: 2019-04-19
+Time: 13:17Moisture: 342
+Date: 2019-04-19
+Time: 13:47Moisture: 342
+Date: 2019-04-19
+Time: 14:17Moisture: 342
+Date: 2019-04-19
+Time: 14:47Moisture: 342
+Date: 2019-04-19
+Time: 15:17Moisture: 342
+Date: 2019-04-19
+Time: 15:47Moisture: 342
+Date: 2019-04-19
+Time: 16:17Moisture: 342
+Date: 2019-04-19
+Time: 16:47Moisture: 342
+Date: 2019-04-19
+Time: 17:17Moisture: 342
+Date: 2019-04-19
+Time: 17:47Moisture: 342
+Date: 2019-04-19
+Time: 18:17Moisture: 342
+Date: 2019-04-19
+Time: 18:47Moisture: 342
+Date: 2019-04-19
+Time: 19:17Moisture: 342
+Date: 2019-04-19
+Time: 19:47Moisture: 342
+Date: 2019-04-19
+Time: 20:17Moisture: 342
+Date: 2019-04-19
+Time: 20:47Moisture: 342
+Date: 2019-04-19
+Time: 21:17Moisture: 342
+Date: 2019-04-19
+Time: 21:47Moisture: 342
+Date: 2019-04-19
+Time: 22:17Moisture: 342
+Date: 2019-04-19
+Time: 22:47Moisture: 342
+Date: 2019-04-19
+Time: 23:17Moisture: 342
+Date: 2019-04-19
+Time: 23:47Moisture: 342
+Date: 2019-04-20
+Time: 00:17Moisture: 342
+Date: 2019-04-20
+Time: 00:47Moisture: 342
+Date: 2019-04-20
+Time: 01:17Moisture: 342
+Date: 2019-04-20
+Time: 01:47Moisture: 342
+Date: 2019-04-20
+Time: 02:17Moisture: 342
+Date: 2019-04-20
+Time: 02:47Moisture: 342
+Date: 2019-04-20
+Time: 03:17Moisture: 342
+Date: 2019-04-20
+Time: 03:47Moisture: 342
+Date: 2019-04-20
+Time: 04:17Moisture: 342
+Date: 2019-04-20
+Time: 04:47Moisture: 342
+Date: 2019-04-20
+Time: 05:17Moisture: 342
+Date: 2019-04-20
+Time: 05:47Moisture: 343
+Date: 2019-04-20
+Time: 06:17Moisture: 343
+Date: 2019-04-20
+Time: 06:47Moisture: 343
+Date: 2019-04-20
+Time: 07:17Moisture: 342
+Date: 2019-04-20
+Time: 07:47Moisture: 342
+Date: 2019-04-20
+Time: 08:17Moisture: 340
+Date: 2019-04-20
+Time: 08:47Moisture: 341
+Date: 2019-04-20
+Time: 09:17Moisture: 340
+Date: 2019-04-20
+Time: 09:47Moisture: 340
+Date: 2019-04-20
+Time: 10:17Moisture: 340
+Date: 2019-04-20
+Time: 10:47Moisture: 340
+Date: 2019-04-20
+Time: 11:17Moisture: 340
+Date: 2019-04-20
+Time: 11:47Moisture: 340
+Date: 2019-04-20
+Time: 12:17Moisture: 340
+Date: 2019-04-20
+Time: 12:47Moisture: 340
+Date: 2019-04-20
+Time: 13:17Moisture: 340
+Date: 2019-04-20
+Time: 13:47Moisture: 340
+Date: 2019-04-20
+Time: 14:17Moisture: 340
+Date: 2019-04-20
+Time: 14:47Moisture: 340
+Date: 2019-04-20
+Time: 15:17Moisture: 340
+Date: 2019-04-20
+Time: 15:47Moisture: 340
+Date: 2019-04-20
+Time: 16:17Moisture: 340
+Date: 2019-04-20
+Time: 16:47Moisture: 340
+Date: 2019-04-20
+Time: 17:17Moisture: 340
+Date: 2019-04-20
+Time: 17:47Moisture: 340
+Date: 2019-04-20
+Time: 18:17Moisture: 340
+Date: 2019-04-20
+Time: 18:47Moisture: 340
+Date: 2019-04-20
+Time: 19:17Moisture: 340
+Date: 2019-04-20
+Time: 19:47Moisture: 340
+Date: 2019-04-20
+Time: 20:17Moisture: 340
+Date: 2019-04-20
+Time: 20:47Moisture: 340
+Date: 2019-04-20
+Time: 21:17Moisture: 340
+Date: 2019-04-20
+Time: 21:47Moisture: 340
+Date: 2019-04-20
+Time: 22:17Moisture: 340
+Date: 2019-04-20
+Time: 22:47Moisture: 341
+Date: 2019-04-20
+Time: 23:17Moisture: 341
+Date: 2019-04-20
+Time: 23:47Moisture: 341
+Date: 2019-04-21
+Time: 00:17Moisture: 341
+Date: 2019-04-21
+Time: 00:47Moisture: 341
+Date: 2019-04-21
+Time: 01:17Moisture: 341
+Date: 2019-04-21
+Time: 01:47Moisture: 341
+Date: 2019-04-21
+Time: 02:17Moisture: 341
+Date: 2019-04-21
+Time: 02:47Moisture: 341
+Date: 2019-04-21
+Time: 03:17Moisture: 341
+Date: 2019-04-21
+Time: 03:47Moisture: 341
+Date: 2019-04-21
+Time: 04:17Moisture: 341
+Date: 2019-04-21
+Time: 04:47Moisture: 342
+Date: 2019-04-21
+Time: 05:17Moisture: 342
+Date: 2019-04-21
+Time: 05:47Moisture: 341
+Date: 2019-04-21
+Time: 06:17Moisture: 341
+Date: 2019-04-21
+Time: 06:47Moisture: 342
+Date: 2019-04-21
+Time: 07:17Moisture: 342
+Date: 2019-04-21
+Time: 07:47Moisture: 341
+Date: 2019-04-21
+Time: 08:17Moisture: 342
+Date: 2019-04-21
+Time: 08:47Moisture: 342
+Date: 2019-04-21
+Time: 09:17Moisture: 342
+Date: 2019-04-21
+Time: 09:47Moisture: 342
+Date: 2019-04-21
+Time: 10:17Moisture: 342
+Date: 2019-04-21
+Time: 10:47Moisture: 342
+Date: 2019-04-21
+Time: 11:17Moisture: 342
+Date: 2019-04-21
+Time: 11:47Moisture: 342
+Date: 2019-04-21
+Time: 12:17Moisture: 342
+Date: 2019-04-21
+Time: 12:47Moisture: 342
+Date: 2019-04-21
+Time: 13:17Moisture: 342
+Date: 2019-04-21
+Time: 13:47Moisture: 342
+Date: 2019-04-21
+Time: 14:17Moisture: 342
+Date: 2019-04-21
+Time: 14:47Moisture: 342
+Date: 2019-04-21
+Time: 15:17Moisture: 342
+Date: 2019-04-21
+Time: 15:47Moisture: 342
+Date: 2019-04-21
+Time: 16:17Moisture: 342
+Date: 2019-04-21
+Time: 16:47Moisture: 342
+Date: 2019-04-21
+Time: 17:17Moisture: 343
+Date: 2019-04-21
+Time: 17:47Moisture: 342
+Date: 2019-04-21
+Time: 18:17Moisture: 342
+Date: 2019-04-21
+Time: 18:47Moisture: 342
+Date: 2019-04-21
+Time: 19:17Moisture: 342
+Date: 2019-04-21
+Time: 19:47Moisture: 342
+Date: 2019-04-21
+Time: 20:17Moisture: 342
+Date: 2019-04-21
+Time: 20:47Moisture: 343
+Date: 2019-04-21
+Time: 21:17Moisture: 343
+Date: 2019-04-21
+Time: 21:47Moisture: 343
+Date: 2019-04-21
+Time: 22:17Moisture: 343
+Date: 2019-04-21
+Time: 22:47Moisture: 343
+Date: 2019-04-21
+Time: 23:17Moisture: 343
+Date: 2019-04-21
+Time: 23:47Moisture: 343
+Date: 2019-04-22
+Time: 00:17Moisture: 343
+Date: 2019-04-22
+Time: 00:47Moisture: 343
+Date: 2019-04-22
+Time: 01:17Moisture: 343
+Date: 2019-04-22
+Time: 01:47Moisture: 343
+Date: 2019-04-22
+Time: 02:17Moisture: 343
+Date: 2019-04-22
+Time: 02:47Moisture: 343
+Date: 2019-04-22
+Time: 03:17Moisture: 343
+Date: 2019-04-22
+Time: 03:47Moisture: 343
+Date: 2019-04-22
+Time: 04:17Moisture: 343
+Date: 2019-04-22
+Time: 04:47Moisture: 343
+Date: 2019-04-22
+Time: 05:17Moisture: 343
+Date: 2019-04-22
+Time: 05:47Moisture: 343
+Date: 2019-04-22
+Time: 06:17Moisture: 343
+Date: 2019-04-22
+Time: 06:47Moisture: 343
+Date: 2019-04-22
+Time: 07:17Moisture: 343
+Date: 2019-04-22
+Time: 07:47Moisture: 344
+Date: 2019-04-22
+Time: 08:17Moisture: 343
+Date: 2019-04-22
+Time: 08:47Moisture: 343
+Date: 2019-04-22
+Time: 09:17Moisture: 343
+Date: 2019-04-22
+Time: 09:47Moisture: 343
+Date: 2019-04-22
+Time: 10:17Moisture: 343
+Date: 2019-04-22
+Time: 10:47Moisture: 343
+Date: 2019-04-22
+Time: 11:17Moisture: 343
+Date: 2019-04-22
+Time: 11:47Moisture: 344
+Date: 2019-04-22
+Time: 12:17Moisture: 343
+Date: 2019-04-22
+Time: 12:47Moisture: 344
+Date: 2019-04-22
+Time: 13:17Moisture: 344
+Date: 2019-04-22
+Time: 13:47Moisture: 344
+Date: 2019-04-22
+Time: 14:17Moisture: 344
+Date: 2019-04-22
+Time: 14:47Moisture: 344
+Date: 2019-04-22
+Time: 15:17Moisture: 344
+Date: 2019-04-22
+Time: 15:47Moisture: 344
+Date: 2019-04-22
+Time: 16:17Moisture: 344
+Date: 2019-04-22
+Time: 16:47Moisture: 344
+Date: 2019-04-22
+Time: 17:17Moisture: 344
+Date: 2019-04-22
+Time: 17:47Moisture: 344
+Date: 2019-04-22
+Time: 18:17Moisture: 344
+Date: 2019-04-22
+Time: 18:47Moisture: 344
+Date: 2019-04-22
+Time: 19:17Moisture: 344
+Date: 2019-04-22
+Time: 19:47Moisture: 344
+Date: 2019-04-22
+Time: 20:17Moisture: 344
+Date: 2019-04-22
+Time: 20:47Moisture: 344
+Date: 2019-04-22
+Time: 21:17Moisture: 344
+Date: 2019-04-22
+Time: 21:47Moisture: 344
+Date: 2019-04-22
+Time: 22:17Moisture: 344
+Date: 2019-04-22
+Time: 22:47Moisture: 345
+Date: 2019-04-22
+Time: 23:17Moisture: 345
+Date: 2019-04-22
+Time: 23:47Moisture: 345
+Date: 2019-04-23
+Time: 00:17Moisture: 345
+Date: 2019-04-23
+Time: 00:47Moisture: 345
+Date: 2019-04-23
+Time: 01:17Moisture: 345
+Date: 2019-04-23
+Time: 01:47Moisture: 345
+Date: 2019-04-23
+Time: 02:17Moisture: 345
+Date: 2019-04-23
+Time: 02:47Moisture: 345
+Date: 2019-04-23
+Time: 03:17Moisture: 345
+Date: 2019-04-23
+Time: 03:47Moisture: 345
+Date: 2019-04-23
+Time: 04:17Moisture: 345
+Date: 2019-04-23
+Time: 04:47Moisture: 345
+Date: 2019-04-23
+Time: 05:17Moisture: 345
+Date: 2019-04-23
+Time: 05:47Moisture: 346
+Date: 2019-04-23
+Time: 06:17Moisture: 346
+Date: 2019-04-23
+Time: 06:47Moisture: 345
+Date: 2019-04-23
+Time: 07:17Moisture: 345
+Date: 2019-04-23
+Time: 07:47Moisture: 346
+Date: 2019-04-23
+Time: 08:17Moisture: 346
+Date: 2019-04-23
+Time: 08:47Moisture: 346
+Date: 2019-04-23
+Time: 09:17Moisture: 346
+Date: 2019-04-23
+Time: 09:47Moisture: 346
+Date: 2019-04-23
+Time: 10:17Moisture: 346
+Date: 2019-04-23
+Time: 10:47Moisture: 346
+Date: 2019-04-23
+Time: 11:17Moisture: 346
+Date: 2019-04-23
+Time: 11:47Moisture: 346
+Date: 2019-04-23
+Time: 12:17Moisture: 346
+Date: 2019-04-23
+Time: 12:47Moisture: 346
+Date: 2019-04-23
+Time: 13:17Moisture: 346
+Date: 2019-04-23
+Time: 13:47Moisture: 346
+Date: 2019-04-23
+Time: 14:17Moisture: 346
+Date: 2019-04-23
+Time: 14:47Moisture: 346
+Date: 2019-04-23
+Time: 15:17Moisture: 346
+Date: 2019-04-23
+Time: 15:47Moisture: 346
+Date: 2019-04-23
+Time: 16:17Moisture: 346
+Date: 2019-04-23
+Time: 16:47Moisture: 346
+Date: 2019-04-23
+Time: 17:17Moisture: 346
+Date: 2019-04-23
+Time: 17:47Moisture: 346
+Date: 2019-04-23
+Time: 18:17Moisture: 347
+Date: 2019-04-23
+Time: 18:47Moisture: 346
+Date: 2019-04-23
+Time: 19:17Moisture: 347
+Date: 2019-04-23
+Time: 19:47Moisture: 346
+Date: 2019-04-23
+Time: 20:17Moisture: 347
+Date: 2019-04-23
+Time: 20:47Moisture: 347
+Date: 2019-04-23
+Time: 21:17Moisture: 347
+Date: 2019-04-23
+Time: 21:47Moisture: 347
+Date: 2019-04-23
+Time: 22:17Moisture: 347
+Date: 2019-04-23
+Time: 22:47Moisture: 347
+Date: 2019-04-23
+Time: 23:17Moisture: 347
+Date: 2019-04-23
+Time: 23:47Moisture: 347
+Date: 2019-04-24
+Time: 00:17Moisture: 347
+Date: 2019-04-24
+Time: 00:47Moisture: 347
+Date: 2019-04-24
+Time: 01:17Moisture: 347
+Date: 2019-04-24
+Time: 01:47Moisture: 347
+Date: 2019-04-24
+Time: 02:17Moisture: 347
+Date: 2019-04-24
+Time: 02:47Moisture: 347
+Date: 2019-04-24
+Time: 03:17Moisture: 347
+Date: 2019-04-24
+Time: 03:47Moisture: 347
+Date: 2019-04-24
+Time: 04:17Moisture: 347
+Date: 2019-04-24
+Time: 04:47Moisture: 348
+Date: 2019-04-24
+Time: 05:17Moisture: 347
+Date: 2019-04-24
+Time: 05:47Moisture: 347
+Date: 2019-04-24
+Time: 06:17Moisture: 348
+Date: 2019-04-24
+Time: 06:47Moisture: 348
+Date: 2019-04-24
+Time: 07:17Moisture: 348
+Date: 2019-04-24
+Time: 07:47Moisture: 348
+Date: 2019-04-24
+Time: 08:17Moisture: 348
+Date: 2019-04-24
+Time: 08:47Moisture: 348
+Date: 2019-04-24
+Time: 09:17Moisture: 348
+Date: 2019-04-24
+Time: 09:47Moisture: 348
+Date: 2019-04-24
+Time: 10:17Moisture: 348
+Date: 2019-04-24
+Time: 10:47Moisture: 348
+Date: 2019-04-24
+Time: 11:17Moisture: 348
+Date: 2019-04-24
+Time: 11:47Moisture: 348
+Date: 2019-04-24
+Time: 12:17Moisture: 348
+Date: 2019-04-24
+Time: 12:47Moisture: 348
+Date: 2019-04-24
+Time: 13:17Moisture: 349
+Date: 2019-04-24
+Time: 13:47Moisture: 349
+Date: 2019-04-24
+Time: 14:17Moisture: 349
+Date: 2019-04-24
+Time: 14:47Moisture: 349
+Date: 2019-04-24
+Time: 15:17Moisture: 349
+Date: 2019-04-24
+Time: 15:47Moisture: 349
+Date: 2019-04-24
+Time: 16:17Moisture: 349
+Date: 2019-04-24
+Time: 16:47Moisture: 349
+Date: 2019-04-24
+Time: 17:17Moisture: 349
+Date: 2019-04-24
+Time: 17:47Moisture: 349
+Date: 2019-04-24
+Time: 18:17Moisture: 349
+Date: 2019-04-24
+Time: 18:47Moisture: 349
+Date: 2019-04-24
+Time: 19:17Moisture: 350
+Date: 2019-04-24
+Time: 19:47Moisture: 350
+Date: 2019-04-24
+Time: 20:17Moisture: 350
+Date: 2019-04-24
+Time: 20:47Moisture: 350
+Date: 2019-04-24
+Time: 21:17Moisture: 350
+Date: 2019-04-24
+Time: 21:47Moisture: 350
+Date: 2019-04-24
+Time: 22:17Moisture: 351
+Date: 2019-04-24
+Time: 22:47Moisture: 350
+Date: 2019-04-24
+Time: 23:17Moisture: 351
+Date: 2019-04-24
+Time: 23:47Moisture: 350
+Date: 2019-04-25
+Time: 00:17Moisture: 351
+Date: 2019-04-25
+Time: 00:47Moisture: 351
+Date: 2019-04-25
+Time: 01:17Moisture: 351
+Date: 2019-04-25
+Time: 01:47Moisture: 351
+Date: 2019-04-25
+Time: 02:17Moisture: 351
+Date: 2019-04-25
+Time: 02:47Moisture: 351
+Date: 2019-04-25
+Time: 03:17Moisture: 351
+Date: 2019-04-25
+Time: 03:47Moisture: 351
+Date: 2019-04-25
+Time: 04:17Moisture: 351
+Date: 2019-04-25
+Time: 04:47Moisture: 352
+Date: 2019-04-25
+Time: 05:17Moisture: 352
+Date: 2019-04-25
+Time: 05:47Moisture: 352
+Date: 2019-04-25
+Time: 06:17Moisture: 352
+Date: 2019-04-25
+Time: 06:47Moisture: 352
+Date: 2019-04-25
+Time: 07:17Moisture: 352
+Date: 2019-04-25
+Time: 07:47Moisture: 352
+Date: 2019-04-25
+Time: 08:17Moisture: 352
+Date: 2019-04-25
+Time: 08:47Moisture: 352
+Date: 2019-04-25
+Time: 09:17Moisture: 352
+Date: 2019-04-25
+Time: 09:47Moisture: 352
+Date: 2019-04-25
+Time: 10:17Moisture: 352
+Date: 2019-04-25
+Time: 10:47Moisture: 352
+Date: 2019-04-25
+Time: 11:17Moisture: 353
+Date: 2019-04-25
+Time: 11:47Moisture: 353
+Date: 2019-04-25
+Time: 12:17Moisture: 353
+Date: 2019-04-25
+Time: 12:47Moisture: 353
+Date: 2019-04-25
+Time: 13:17Moisture: 353
+Date: 2019-04-25
+Time: 13:47Moisture: 353
+Date: 2019-04-25
+Time: 14:17Moisture: 353
+Date: 2019-04-25
+Time: 14:47Moisture: 353
+Date: 2019-04-25
+Time: 15:17Moisture: 353
+Date: 2019-04-25
+Time: 15:47Moisture: 353
+Date: 2019-04-25
+Time: 16:17Moisture: 353
+Date: 2019-04-25
+Time: 16:47Moisture: 353
+Date: 2019-04-25
+Time: 17:17Moisture: 353
+Date: 2019-04-25
+Time: 17:47Moisture: 353
+Date: 2019-04-25
+Time: 18:17Moisture: 353
+Date: 2019-04-25
+Time: 18:47Moisture: 354
+Date: 2019-04-25
+Time: 19:17Moisture: 354
+Date: 2019-04-25
+Time: 19:47Moisture: 354
+Date: 2019-04-25
+Time: 20:17Moisture: 354
+Date: 2019-04-25
+Time: 20:47Moisture: 354
+Date: 2019-04-25
+Time: 21:17Moisture: 354
+Date: 2019-04-25
+Time: 21:47Moisture: 354
+Date: 2019-04-25
+Time: 22:17Moisture: 354
+Date: 2019-04-25
+Time: 22:47Moisture: 354
+Date: 2019-04-25
+Time: 23:17Moisture: 354
+Date: 2019-04-25
+Time: 23:47Moisture: 354
+Date: 2019-04-26
+Time: 00:17Moisture: 354
+Date: 2019-04-26
+Time: 00:47Moisture: 354
+Date: 2019-04-26
+Time: 01:17Moisture: 355
+Date: 2019-04-26
+Time: 01:47Moisture: 355
+Date: 2019-04-26
+Time: 02:17Moisture: 355
+Date: 2019-04-26
+Time: 02:47Moisture: 355
+Date: 2019-04-26
+Time: 03:17Moisture: 355
+Date: 2019-04-26
+Time: 03:47Moisture: 355
+Date: 2019-04-26
+Time: 04:17Moisture: 356
+Date: 2019-04-26
+Time: 04:47Moisture: 355
+Date: 2019-04-26
+Time: 05:17Moisture: 355
+Date: 2019-04-26
+Time: 05:47Moisture: 355
+Date: 2019-04-26
+Time: 06:17Moisture: 356
+Date: 2019-04-26
+Time: 06:47Moisture: 356
+Date: 2019-04-26
+Time: 07:17Moisture: 356
+Date: 2019-04-26
+Time: 07:47Moisture: 356
+Date: 2019-04-26
+Time: 08:17Moisture: 356
+Date: 2019-04-26
+Time: 08:47Moisture: 356
+Date: 2019-04-26
+Time: 09:17Moisture: 356
+Date: 2019-04-26
+Time: 09:47Moisture: 356
+Date: 2019-04-26
+Time: 10:17Moisture: 356
+Date: 2019-04-26
+Time: 10:47Moisture: 356
+Date: 2019-04-26
+Time: 11:17Moisture: 356
+Date: 2019-04-26
+Time: 11:47Moisture: 356
+Date: 2019-04-26
+Time: 12:17Moisture: 357
+Date: 2019-04-26
+Time: 12:47Moisture: 356
+Date: 2019-04-26
+Time: 13:17Moisture: 357
+Date: 2019-04-26
+Time: 13:47Moisture: 357
+Date: 2019-04-26
+Time: 14:17Moisture: 356
+Date: 2019-04-26
+Time: 14:47Moisture: 356
+Date: 2019-04-26
+Time: 15:17Moisture: 356
+Date: 2019-04-26
+Time: 15:47Moisture: 356
+Date: 2019-04-26
+Time: 16:17Moisture: 356
+Date: 2019-04-26
+Time: 16:47Moisture: 358
+Date: 2019-04-26
+Time: 17:17Moisture: 359
+Date: 2019-04-26
+Time: 17:47Moisture: 359
+Date: 2019-04-26
+Time: 18:17Moisture: 359
+Date: 2019-04-26
+Time: 18:47Moisture: 359
+Date: 2019-04-26
+Time: 19:17Moisture: 359
+Date: 2019-04-26
+Time: 19:47Moisture: 359
+Date: 2019-04-26
+Time: 20:17Moisture: 359
+Date: 2019-04-26
+Time: 20:47Moisture: 359
+Date: 2019-04-26
+Time: 21:17Moisture: 359
+Date: 2019-04-26
+Time: 21:47Moisture: 359
+Date: 2019-04-26
+Time: 22:17Moisture: 359
+Date: 2019-04-26
+Time: 22:47Moisture: 359
+Date: 2019-04-26
+Time: 23:17Moisture: 359
+Date: 2019-04-26
+Time: 23:47Moisture: 359
+Date: 2019-04-27
+Time: 00:17Moisture: 359
+Date: 2019-04-27
+Time: 00:47Moisture: 359
+Date: 2019-04-27
+Time: 01:17Moisture: 359
+Date: 2019-04-27
+Time: 01:47Moisture: 360
+Date: 2019-04-27
+Time: 02:17Moisture: 360
+Date: 2019-04-27
+Time: 02:47Moisture: 360
+Date: 2019-04-27
+Time: 03:17Moisture: 360
+Date: 2019-04-27
+Time: 03:47Moisture: 360
+Date: 2019-04-27
+Time: 04:17Moisture: 360
+Date: 2019-04-27
+Time: 04:47Moisture: 360
+Date: 2019-04-27
+Time: 05:17Moisture: 360
+Date: 2019-04-27
+Time: 05:47Moisture: 360
+Date: 2019-04-27
+Time: 06:17Moisture: 360
+Date: 2019-04-27
+Time: 06:47Moisture: 360
+Date: 2019-04-27
+Time: 07:17Moisture: 360
+Date: 2019-04-27
+Time: 07:47Moisture: 360
+Date: 2019-04-27
+Time: 08:17Moisture: 360
+Date: 2019-04-27
+Time: 08:47Moisture: 360
+Date: 2019-04-27
+Time: 09:17Moisture: 361
+Date: 2019-04-27
+Time: 09:47Moisture: 360
+Date: 2019-04-27
+Time: 10:17Moisture: 361
+Date: 2019-04-27
+Time: 10:47Moisture: 361
+Date: 2019-04-27
+Time: 11:17Moisture: 360
+Date: 2019-04-27
+Time: 11:47Moisture: 361
+Date: 2019-04-27
+Time: 12:17Moisture: 360
+Date: 2019-04-27
+Time: 12:47Moisture: 361
+Date: 2019-04-27
+Time: 13:17Moisture: 361
+Date: 2019-04-27
+Time: 13:47Moisture: 361
+Date: 2019-04-27
+Time: 14:17Moisture: 361
+Date: 2019-04-27
+Time: 14:47Moisture: 361
+Date: 2019-04-27
+Time: 15:17Moisture: 361
+Date: 2019-04-27
+Time: 15:47Moisture: 361
+Date: 2019-04-27
+Time: 16:17Moisture: 361
+Date: 2019-04-27
+Time: 16:47Moisture: 361
+Date: 2019-04-27
+Time: 17:17Moisture: 361
+Date: 2019-04-27
+Time: 17:47Moisture: 361
+Date: 2019-04-27
+Time: 18:17Moisture: 361
+Date: 2019-04-27
+Time: 18:47Moisture: 361
+Date: 2019-04-27
+Time: 19:17Moisture: 361
+Date: 2019-04-27
+Time: 19:47Moisture: 361
+Date: 2019-04-27
+Time: 20:17Moisture: 361
+Date: 2019-04-27
+Time: 20:47Moisture: 361
+Date: 2019-04-27
+Time: 21:17Moisture: 361
+Date: 2019-04-27
+Time: 21:48Moisture: 362
+Date: 2019-04-27
+Time: 22:18Moisture: 361
+Date: 2019-04-27
+Time: 22:48Moisture: 362
+Date: 2019-04-27
+Time: 23:18Moisture: 362
+Date: 2019-04-27
+Time: 23:48Moisture: 361
+Date: 2019-04-28
+Time: 00:18Moisture: 362
+Date: 2019-04-28
+Time: 00:48Moisture: 362
+Date: 2019-04-28
+Time: 01:18Moisture: 362
+Date: 2019-04-28
+Time: 01:48Moisture: 362
+Date: 2019-04-28
+Time: 02:18Moisture: 362
+Date: 2019-04-28
+Time: 02:48Moisture: 362
+Date: 2019-04-28
+Time: 03:18Moisture: 362
+Date: 2019-04-28
+Time: 03:48Moisture: 362
+Date: 2019-04-28
+Time: 04:18Moisture: 362
+Date: 2019-04-28
+Time: 04:48Moisture: 362
+Date: 2019-04-28
+Time: 05:18Moisture: 362
+Date: 2019-04-28
+Time: 05:48Moisture: 362
+Date: 2019-04-28
+Time: 06:18Moisture: 362
+Date: 2019-04-28
+Time: 06:48Moisture: 363
+Date: 2019-04-28
+Time: 07:18Moisture: 363
+Date: 2019-04-28
+Time: 07:48Moisture: 363
+Date: 2019-04-28
+Time: 08:18Moisture: 363
+Date: 2019-04-28
+Time: 08:48Moisture: 363
+Date: 2019-04-28
+Time: 09:18Moisture: 363
+Date: 2019-04-28
+Time: 09:48Moisture: 363
+Date: 2019-04-28
+Time: 10:18Moisture: 363
+Date: 2019-04-28
+Time: 10:48Moisture: 363
+Date: 2019-04-28
+Time: 11:18Moisture: 363
+Date: 2019-04-28
+Time: 11:48Moisture: 363
+Date: 2019-04-28
+Time: 12:18Moisture: 363
+Date: 2019-04-28
+Time: 12:48Moisture: 363
+Date: 2019-04-28
+Time: 13:18Moisture: 363
+Date: 2019-04-28
+Time: 13:48Moisture: 363
+Date: 2019-04-28
+Time: 14:18Moisture: 363
+Date: 2019-04-28
+Time: 14:48Moisture: 363
+Date: 2019-04-28
+Time: 15:18Moisture: 363
+Date: 2019-04-28
+Time: 15:48Moisture: 363
+Date: 2019-04-28
+Time: 16:18Moisture: 363
+Date: 2019-04-28
+Time: 16:48Moisture: 363
+Date: 2019-04-28
+Time: 17:18Moisture: 363
+Date: 2019-04-28
+Time: 17:48Moisture: 363
+Date: 2019-04-28
+Time: 18:18Moisture: 364
+Date: 2019-04-28
+Time: 18:48Moisture: 364
+Date: 2019-04-28
+Time: 19:18Moisture: 364
+Date: 2019-04-28
+Time: 19:48Moisture: 364
+Date: 2019-04-28
+Time: 20:18Moisture: 364
+Date: 2019-04-28
+Time: 20:48Moisture: 364
+Date: 2019-04-28
+Time: 21:18Moisture: 364
+Date: 2019-04-28
+Time: 21:48Moisture: 364
+Date: 2019-04-28
+Time: 22:18Moisture: 364
+Date: 2019-04-28
+Time: 22:48Moisture: 364
+Date: 2019-04-28
+Time: 23:18Moisture: 364
+Date: 2019-04-28
+Time: 23:48Moisture: 364
+Date: 2019-04-29
+Time: 00:18Moisture: 364
+Date: 2019-04-29
+Time: 00:48Moisture: 364
+Date: 2019-04-29
+Time: 01:18Moisture: 364
+Date: 2019-04-29
+Time: 01:48Moisture: 364
+Date: 2019-04-29
+Time: 02:18Moisture: 364
+Date: 2019-04-29
+Time: 02:48Moisture: 364
+Date: 2019-04-29
+Time: 03:18Moisture: 364
+Date: 2019-04-29
+Time: 03:48Moisture: 364
+Date: 2019-04-29
+Time: 04:18Moisture: 364
+Date: 2019-04-29
+Time: 04:48Moisture: 364
+Date: 2019-04-29
+Time: 05:18Moisture: 364
+Date: 2019-04-29
+Time: 05:48Moisture: 364
+Date: 2019-04-29
+Time: 06:18Moisture: 365
+Date: 2019-04-29
+Time: 06:48Moisture: 364
+Date: 2019-04-29
+Time: 07:18Moisture: 365
+Date: 2019-04-29
+Time: 07:48Moisture: 364
+Date: 2019-04-29
+Time: 08:18Moisture: 365
+Date: 2019-04-29
+Time: 08:48Moisture: 365
+Date: 2019-04-29
+Time: 09:18Moisture: 365
+Date: 2019-04-29
+Time: 09:48Moisture: 365
+Date: 2019-04-29
+Time: 10:18Moisture: 365
+Date: 2019-04-29
+Time: 10:48Moisture: 365
+Date: 2019-04-29
+Time: 11:18Moisture: 365
+Date: 2019-04-29
+Time: 11:48Moisture: 365
+Date: 2019-04-29
+Time: 12:18Moisture: 365
+Date: 2019-04-29
+Time: 12:48Moisture: 365
+Date: 2019-04-29
+Time: 13:18Moisture: 365
+Date: 2019-04-29
+Time: 13:48Moisture: 365
+Date: 2019-04-29
+Time: 14:18Moisture: 365
+Date: 2019-04-29
+Time: 14:48Moisture: 366
+Date: 2019-04-29
+Time: 15:18Moisture: 365
+Date: 2019-04-29
+Time: 15:48Moisture: 366
+Date: 2019-04-29
+Time: 16:18Moisture: 366
+Date: 2019-04-29
+Time: 16:48Moisture: 365
+Date: 2019-04-29
+Time: 17:18Moisture: 366
+Date: 2019-04-29
+Time: 17:48Moisture: 365
+Date: 2019-04-29
+Time: 18:18Moisture: 366
+Date: 2019-04-29
+Time: 18:48Moisture: 365
+Date: 2019-04-29
+Time: 19:18Moisture: 365
+Date: 2019-04-29
+Time: 19:48Moisture: 366
+Date: 2019-04-29
+Time: 20:18Moisture: 366
+Date: 2019-04-29
+Time: 20:48Moisture: 366
+Date: 2019-04-29
+Time: 21:18Moisture: 366
+Date: 2019-04-29
+Time: 21:48Moisture: 366
+Date: 2019-04-29
+Time: 22:18Moisture: 366
+Date: 2019-04-29
+Time: 22:48Moisture: 366
+Date: 2019-04-29
+Time: 23:18Moisture: 366
+Date: 2019-04-29
+Time: 23:48Moisture: 366
+Date: 2019-04-30
+Time: 00:18Moisture: 366
+Date: 2019-04-30
+Time: 00:48Moisture: 366
+Date: 2019-04-30
+Time: 01:18Moisture: 366
+Date: 2019-04-30
+Time: 01:48Moisture: 366
+Date: 2019-04-30
+Time: 02:18Moisture: 367
+Date: 2019-04-30
+Time: 02:48Moisture: 366
+Date: 2019-04-30
+Time: 03:18Moisture: 366
+Date: 2019-04-30
+Time: 03:48Moisture: 367
+Date: 2019-04-30
+Time: 04:18Moisture: 366
+Date: 2019-04-30
+Time: 04:48Moisture: 367
+Date: 2019-04-30
+Time: 05:18Moisture: 367
+Date: 2019-04-30
+Time: 05:48Moisture: 367
+Date: 2019-04-30
+Time: 06:18Moisture: 367
+Date: 2019-04-30
+Time: 06:48Moisture: 367
+Date: 2019-04-30
+Time: 07:18Moisture: 367
+Date: 2019-04-30
+Time: 07:48Moisture: 367
+Date: 2019-04-30
+Time: 08:18Moisture: 367
+Date: 2019-04-30
+Time: 08:48Moisture: 367
+Date: 2019-04-30
+Time: 09:18Moisture: 367
+Date: 2019-04-30
+Time: 09:48Moisture: 367
+Date: 2019-04-30
+Time: 10:18Moisture: 367
+Date: 2019-04-30
+Time: 10:48Moisture: 367
+Date: 2019-04-30
+Time: 11:18Moisture: 367
+Date: 2019-04-30
+Time: 11:48Moisture: 367
+Date: 2019-04-30
+Time: 12:18Moisture: 367
+Date: 2019-04-30
+Time: 12:48Moisture: 367
+Date: 2019-04-30
+Time: 13:18Moisture: 367
+Date: 2019-04-30
+Time: 13:48Moisture: 367
+Date: 2019-04-30
+Time: 14:18Moisture: 367
+Date: 2019-04-30
+Time: 14:48Moisture: 367
+Date: 2019-04-30
+Time: 15:18Moisture: 367
+Date: 2019-04-30
+Time: 15:48Moisture: 367
+Date: 2019-04-30
+Time: 16:18Moisture: 368
+Date: 2019-04-30
+Time: 16:48Moisture: 367
+Date: 2019-04-30
+Time: 17:18Moisture: 368
+Date: 2019-04-30
+Time: 17:48Moisture: 367
+Date: 2019-04-30
+Time: 18:18Moisture: 367
+Date: 2019-04-30
+Time: 18:48Moisture: 368
+Date: 2019-04-30
+Time: 19:18Moisture: 368
+Date: 2019-04-30
+Time: 19:48Moisture: 368
+Date: 2019-04-30
+Time: 20:18Moisture: 368
+Date: 2019-04-30
+Time: 20:48Moisture: 368
+Date: 2019-04-30
+Time: 21:18Moisture: 368
+Date: 2019-04-30
+Time: 21:48Moisture: 368
+Date: 2019-04-30
+Time: 22:18Moisture: 368
+Date: 2019-04-30
+Time: 22:48Moisture: 368
+Date: 2019-04-30
+Time: 23:18Moisture: 368
+Date: 2019-04-30
+Time: 23:48Moisture: 368
+Date: 2019-05-01
+Time: 00:18Moisture: 368
+Date: 2019-05-01
+Time: 00:48Moisture: 368
+Date: 2019-05-01
+Time: 01:18Moisture: 368
+Date: 2019-05-01
+Time: 01:48Moisture: 369
+Date: 2019-05-01
+Time: 02:18Moisture: 368
+Date: 2019-05-01
+Time: 02:48Moisture: 368
+Date: 2019-05-01
+Time: 03:18Moisture: 368
+Date: 2019-05-01
+Time: 03:48Moisture: 368
+Date: 2019-05-01
+Time: 04:18Moisture: 368
+Date: 2019-05-01
+Time: 04:48Moisture: 368
+Date: 2019-05-01
+Time: 05:18Moisture: 368
+Date: 2019-05-01
+Time: 05:48Moisture: 368
+Date: 2019-05-01
+Time: 06:18Moisture: 369
+Date: 2019-05-01
+Time: 06:48Moisture: 369
+Date: 2019-05-01
+Time: 07:18Moisture: 369
+Date: 2019-05-01
+Time: 07:48Moisture: 369
+Date: 2019-05-01
+Time: 08:18Moisture: 369
+Date: 2019-05-01
+Time: 08:48Moisture: 369
+Date: 2019-05-01
+Time: 09:18Moisture: 369
+Date: 2019-05-01
+Time: 09:48Moisture: 369
+Date: 2019-05-01
+Time: 10:18Moisture: 369
+Date: 2019-05-01
+Time: 10:48Moisture: 369
+Date: 2019-05-01
+Time: 11:18Moisture: 369
+Date: 2019-05-01
+Time: 11:48Moisture: 369
+Date: 2019-05-01
+Time: 12:18Moisture: 369
+Date: 2019-05-01
+Time: 12:48Moisture: 369
+Date: 2019-05-01
+Time: 13:18Moisture: 369
+Date: 2019-05-01
+Time: 13:48Moisture: 369
+Date: 2019-05-01
+Time: 14:18Moisture: 369
+Date: 2019-05-01
+Time: 14:48Moisture: 369
+Date: 2019-05-01
+Time: 15:18Moisture: 369
+Date: 2019-05-01
+Time: 15:48Moisture: 369
+Date: 2019-05-01
+Time: 16:18Moisture: 369
+Date: 2019-05-01
+Time: 16:48Moisture: 369
+Date: 2019-05-01
+Time: 17:18Moisture: 369
+Date: 2019-05-01
+Time: 17:48Moisture: 369
+Date: 2019-05-01
+Time: 18:18Moisture: 369
+Date: 2019-05-01
+Time: 18:48Moisture: 370
+Date: 2019-05-01
+Time: 19:18Moisture: 369
+Date: 2019-05-01
+Time: 19:48Moisture: 369
+Date: 2019-05-01
+Time: 20:18Moisture: 370
+Date: 2019-05-01
+Time: 20:48Moisture: 369
+Date: 2019-05-01
+Time: 21:18Moisture: 369
+Date: 2019-05-01
+Time: 21:48Moisture: 369
+Date: 2019-05-01
+Time: 22:18Moisture: 370
+Date: 2019-05-01
+Time: 22:48Moisture: 370
+Date: 2019-05-01
+Time: 23:18Moisture: 369
+Date: 2019-05-01
+Time: 23:48Moisture: 370
+Date: 2019-05-02
+Time: 00:18Moisture: 369
+Date: 2019-05-02
+Time: 00:48Moisture: 370
+Date: 2019-05-02
+Time: 01:18Moisture: 370
+Date: 2019-05-02
+Time: 01:48Moisture: 370
+Date: 2019-05-02
+Time: 02:18Moisture: 370
+Date: 2019-05-02
+Time: 02:48Moisture: 370
+Date: 2019-05-02
+Time: 03:18Moisture: 370
+Date: 2019-05-02
+Time: 03:48Moisture: 370
+Date: 2019-05-02
+Time: 04:18Moisture: 370
+Date: 2019-05-02
+Time: 04:48Moisture: 370
+Date: 2019-05-02
+Time: 05:18Moisture: 370
+Date: 2019-05-02
+Time: 05:48Moisture: 370
+Date: 2019-05-02
+Time: 06:18Moisture: 370
+Date: 2019-05-02
+Time: 06:48Moisture: 370
+Date: 2019-05-02
+Time: 07:18Moisture: 370
+Date: 2019-05-02
+Time: 07:48Moisture: 370
+Date: 2019-05-02
+Time: 08:18Moisture: 370
+Date: 2019-05-02
+Time: 08:48Moisture: 371
+Date: 2019-05-02
+Time: 09:18Moisture: 371
+Date: 2019-05-02
+Time: 09:48Moisture: 371
+Date: 2019-05-02
+Time: 10:18Moisture: 371
+Date: 2019-05-02
+Time: 10:48Moisture: 371
+Date: 2019-05-02
+Time: 11:18Moisture: 371
+Date: 2019-05-02
+Time: 11:48Moisture: 371
+Date: 2019-05-02
+Time: 12:18Moisture: 371
+Date: 2019-05-02
+Time: 12:48Moisture: 371
+Date: 2019-05-02
+Time: 13:18Moisture: 371
+Date: 2019-05-02
+Time: 13:48Moisture: 372
+Date: 2019-05-02
+Time: 14:18Moisture: 371
+Date: 2019-05-02
+Time: 14:48Moisture: 372
+Date: 2019-05-02
+Time: 15:18Moisture: 372
+Date: 2019-05-02
+Time: 15:48Moisture: 372
+Date: 2019-05-02
+Time: 16:18Moisture: 372
+Date: 2019-05-02
+Time: 16:48Moisture: 372
+Date: 2019-05-02
+Time: 17:18Moisture: 372
+Date: 2019-05-02
+Time: 17:48Moisture: 372
+Date: 2019-05-02
+Time: 18:18Moisture: 372
+Date: 2019-05-02
+Time: 18:48Moisture: 372
+Date: 2019-05-02
+Time: 19:18Moisture: 372
+Date: 2019-05-02
+Time: 19:48Moisture: 371
+Date: 2019-05-02
+Time: 20:18Moisture: 372
+Date: 2019-05-02
+Time: 20:48Moisture: 372
+Date: 2019-05-02
+Time: 21:18Moisture: 372
+Date: 2019-05-02
+Time: 21:48Moisture: 372
+Date: 2019-05-02
+Time: 22:18Moisture: 372
+Date: 2019-05-02
+Time: 22:48Moisture: 372
+Date: 2019-05-02
+Time: 23:18Moisture: 372
+Date: 2019-05-02
+Time: 23:48Moisture: 372
+Date: 2019-05-03
+Time: 00:18Moisture: 372
+Date: 2019-05-03
+Time: 00:48Moisture: 372
+Date: 2019-05-03
+Time: 01:18Moisture: 372
+Date: 2019-05-03
+Time: 01:48Moisture: 372
+Date: 2019-05-03
+Time: 02:18Moisture: 372
+Date: 2019-05-03
+Time: 02:48Moisture: 372
+Date: 2019-05-03
+Time: 03:18Moisture: 372
+Date: 2019-05-03
+Time: 03:48Moisture: 372
+Date: 2019-05-03
+Time: 04:18Moisture: 373
+Date: 2019-05-03
+Time: 04:48Moisture: 373
+Date: 2019-05-03
+Time: 05:18Moisture: 373
+Date: 2019-05-03
+Time: 05:48Moisture: 373
+Date: 2019-05-03
+Time: 06:18Moisture: 373
+Date: 2019-05-03
+Time: 06:48Moisture: 373
+Date: 2019-05-03
+Time: 07:18Moisture: 373
+Date: 2019-05-03
+Time: 07:48Moisture: 373
+Date: 2019-05-03
+Time: 08:18Moisture: 373
+Date: 2019-05-03
+Time: 08:48Moisture: 373
+Date: 2019-05-03
+Time: 09:18Moisture: 373
+Date: 2019-05-03
+Time: 09:48Moisture: 373
+Date: 2019-05-03
+Time: 10:18Moisture: 373
+Date: 2019-05-03
+Time: 10:48Moisture: 373
+Date: 2019-05-03
+Time: 11:18Moisture: 373
+Date: 2019-05-03
+Time: 11:48Moisture: 373
+Date: 2019-05-03
+Time: 12:18Moisture: 373
+Date: 2019-05-03
+Time: 12:48Moisture: 373
+Date: 2019-05-03
+Time: 13:18Moisture: 373
+Date: 2019-05-03
+Time: 13:48Moisture: 373
+Date: 2019-05-03
+Time: 14:18Moisture: 373
+Date: 2019-05-03
+Time: 14:48Moisture: 373
+Date: 2019-05-03
+Time: 15:18Moisture: 373
+Date: 2019-05-03
+Time: 15:48Moisture: 373
+Date: 2019-05-03
+Time: 16:18Moisture: 373
+Date: 2019-05-03
+Time: 16:48Moisture: 373
+Date: 2019-05-03
+Time: 17:18Moisture: 373
+Date: 2019-05-03
+Time: 17:48Moisture: 374
+Date: 2019-05-03
+Time: 18:18Moisture: 373
+Date: 2019-05-03
+Time: 18:48Moisture: 374
+Date: 2019-05-03
+Time: 19:18Moisture: 374
+Date: 2019-05-03
+Time: 19:48Moisture: 374
+Date: 2019-05-03
+Time: 20:18Moisture: 374
+Date: 2019-05-03
+Time: 20:48Moisture: 374
+Date: 2019-05-03
+Time: 21:18Moisture: 374
+Date: 2019-05-03
+Time: 21:48Moisture: 374
+Date: 2019-05-03
+Time: 22:18Moisture: 374
+Date: 2019-05-03
+Time: 22:48Moisture: 374
+Date: 2019-05-03
+Time: 23:18Moisture: 374
+Date: 2019-05-03
+Time: 23:48Moisture: 374
+Date: 2019-05-04
+Time: 00:18Moisture: 374
+Date: 2019-05-04
+Time: 00:48Moisture: 374
+Date: 2019-05-04
+Time: 01:18Moisture: 374
+Date: 2019-05-04
+Time: 01:48Moisture: 374
+Date: 2019-05-04
+Time: 02:18Moisture: 374
+Date: 2019-05-04
+Time: 02:48Moisture: 374
+Date: 2019-05-04
+Time: 03:18Moisture: 374
+Date: 2019-05-04
+Time: 03:48Moisture: 375
+Date: 2019-05-04
+Time: 04:18Moisture: 375
+Date: 2019-05-04
+Time: 04:48Moisture: 375
+Date: 2019-05-04
+Time: 05:18Moisture: 375
+Date: 2019-05-04
+Time: 05:48Moisture: 374
+Date: 2019-05-04
+Time: 06:18Moisture: 374
+Date: 2019-05-04
+Time: 06:48Moisture: 374
+Date: 2019-05-04
+Time: 07:18Moisture: 375
+Date: 2019-05-04
+Time: 07:48Moisture: 374
+Date: 2019-05-04
+Time: 08:18Moisture: 374
+Date: 2019-05-04
+Time: 08:48Moisture: 375
+Date: 2019-05-04
+Time: 09:18Moisture: 375
+Date: 2019-05-04
+Time: 09:48Moisture: 375
+Date: 2019-05-04
+Time: 10:18Moisture: 375
+Date: 2019-05-04
+Time: 10:48Moisture: 375
+Date: 2019-05-04
+Time: 11:18Moisture: 375
+Date: 2019-05-04
+Time: 11:48Moisture: 375
+Date: 2019-05-04
+Time: 12:18Moisture: 375
+Date: 2019-05-04
+Time: 12:48Moisture: 375
+Date: 2019-05-04
+Time: 13:18Moisture: 375
+Date: 2019-05-04
+Time: 13:48Moisture: 375
+Date: 2019-05-04
+Time: 14:18Moisture: 375
+Date: 2019-05-04
+Time: 14:48Moisture: 375
+Date: 2019-05-04
+Time: 15:18Moisture: 375
+Date: 2019-05-04
+Time: 15:48Moisture: 376
+Date: 2019-05-04
+Time: 16:18Moisture: 376
+Date: 2019-05-04
+Time: 16:48Moisture: 376
+Date: 2019-05-04
+Time: 17:18Moisture: 376
+Date: 2019-05-04
+Time: 17:48Moisture: 376
+Date: 2019-05-04
+Time: 18:18Moisture: 376
+Date: 2019-05-04
+Time: 18:48Moisture: 376
+Date: 2019-05-04
+Time: 19:18Moisture: 376
+Date: 2019-05-04
+Time: 19:48Moisture: 376
+Date: 2019-05-04
+Time: 20:18Moisture: 376
+Date: 2019-05-04
+Time: 20:48Moisture: 376
+Date: 2019-05-04
+Time: 21:18Moisture: 376
+Date: 2019-05-04
+Time: 21:48Moisture: 376
+Date: 2019-05-04
+Time: 22:18Moisture: 377
+Date: 2019-05-04
+Time: 22:48Moisture: 377
+Date: 2019-05-04
+Time: 23:18Moisture: 377
+Date: 2019-05-04
+Time: 23:48Moisture: 377
+Date: 2019-05-05
+Time: 00:18Moisture: 377
+Date: 2019-05-05
+Time: 00:48Moisture: 377
+Date: 2019-05-05
+Time: 01:18Moisture: 377
+Date: 2019-05-05
+Time: 01:48Moisture: 377
+Date: 2019-05-05
+Time: 02:18Moisture: 377
+Date: 2019-05-05
+Time: 02:48Moisture: 377
+Date: 2019-05-05
+Time: 03:18Moisture: 377
+Date: 2019-05-05
+Time: 03:48Moisture: 377
+Date: 2019-05-05
+Time: 04:18Moisture: 377
+Date: 2019-05-05
+Time: 04:48Moisture: 377
+Date: 2019-05-05
+Time: 05:18Moisture: 377
+Date: 2019-05-05
+Time: 05:48Moisture: 377
+Date: 2019-05-05
+Time: 06:18Moisture: 377
+Date: 2019-05-05
+Time: 06:48Moisture: 377
+Date: 2019-05-05
+Time: 07:18Moisture: 377
+Date: 2019-05-05
+Time: 07:48Moisture: 377
+Date: 2019-05-05
+Time: 08:18Moisture: 377
+Date: 2019-05-05
+Time: 08:48Moisture: 377
+Date: 2019-05-05
+Time: 09:18Moisture: 377
+Date: 2019-05-05
+Time: 09:48Moisture: 377
+Date: 2019-05-05
+Time: 10:18Moisture: 377
+Date: 2019-05-05
+Time: 10:48Moisture: 378
+Date: 2019-05-05
+Time: 11:18Moisture: 378
+Date: 2019-05-05
+Time: 11:48Moisture: 378
+Date: 2019-05-05
+Time: 12:18Moisture: 377
+Date: 2019-05-05
+Time: 12:48Moisture: 378
+Date: 2019-05-05
+Time: 13:18Moisture: 377
+Date: 2019-05-05
+Time: 13:48Moisture: 378
+Date: 2019-05-05
+Time: 14:18Moisture: 378
+Date: 2019-05-05
+Time: 14:48Moisture: 378
+Date: 2019-05-05
+Time: 15:18Moisture: 378
+Date: 2019-05-05
+Time: 15:48Moisture: 378
+Date: 2019-05-05
+Time: 16:18Moisture: 378
+Date: 2019-05-05
+Time: 16:48Moisture: 378
+Date: 2019-05-05
+Time: 17:18Moisture: 378
+Date: 2019-05-05
+Time: 17:48Moisture: 378
+Date: 2019-05-05
+Time: 18:18Moisture: 378
+Date: 2019-05-05
+Time: 18:48Moisture: 378
+Date: 2019-05-05
+Time: 19:18Moisture: 378
+Date: 2019-05-05
+Time: 19:48Moisture: 378
+Date: 2019-05-05
+Time: 20:18Moisture: 377
+Date: 2019-05-05
+Time: 20:48Moisture: 378
+Date: 2019-05-05
+Time: 21:18Moisture: 378
+Date: 2019-05-05
+Time: 21:48Moisture: 378
+Date: 2019-05-05
+Time: 22:18Moisture: 378
+Date: 2019-05-05
+Time: 22:48Moisture: 378
+Date: 2019-05-05
+Time: 23:18Moisture: 378
+Date: 2019-05-05
+Time: 23:48Moisture: 378
+Date: 2019-05-06
+Time: 00:18Moisture: 378
+Date: 2019-05-06
+Time: 00:48Moisture: 378
+Date: 2019-05-06
+Time: 01:18Moisture: 378
+Date: 2019-05-06
+Time: 01:48Moisture: 378
+Date: 2019-05-06
+Time: 02:18Moisture: 378
+Date: 2019-05-06
+Time: 02:48Moisture: 378
+Date: 2019-05-06
+Time: 03:18Moisture: 378
+Date: 2019-05-06
+Time: 03:48Moisture: 378
+Date: 2019-05-06
+Time: 04:18Moisture: 378
+Date: 2019-05-06
+Time: 04:48Moisture: 378
+Date: 2019-05-06
+Time: 05:18Moisture: 378
+Date: 2019-05-06
+Time: 05:48Moisture: 378
+Date: 2019-05-06
+Time: 06:18Moisture: 378
+Date: 2019-05-06
+Time: 06:48Moisture: 378
+Date: 2019-05-06
+Time: 07:18Moisture: 378
+Date: 2019-05-06
+Time: 07:48Moisture: 378
+Date: 2019-05-06
+Time: 08:18Moisture: 378
+Date: 2019-05-06
+Time: 08:48Moisture: 378
+Date: 2019-05-06
+Time: 09:18Moisture: 378
+Date: 2019-05-06
+Time: 09:48Moisture: 378
+Date: 2019-05-06
+Time: 10:18Moisture: 378
+Date: 2019-05-06
+Time: 10:48Moisture: 378
+Date: 2019-05-06
+Time: 11:18Moisture: 378
+Date: 2019-05-06
+Time: 11:48Moisture: 378
+Date: 2019-05-06
+Time: 12:18Moisture: 378
+Date: 2019-05-06
+Time: 12:48Moisture: 378
+Date: 2019-05-06
+Time: 13:18Moisture: 378
+Date: 2019-05-06
+Time: 13:48Moisture: 378
+Date: 2019-05-06
+Time: 14:18Moisture: 379
+Date: 2019-05-06
+Time: 14:48Moisture: 378
+Date: 2019-05-06
+Time: 15:18Moisture: 379
+Date: 2019-05-06
+Time: 15:48Moisture: 378
+Date: 2019-05-06
+Time: 16:18Moisture: 548
+Date: 2019-05-06
+Time: 16:48Moisture: 548
+Date: 2019-05-06
+Time: 17:18Moisture: 548
+Date: 2019-05-06
+Time: 17:49Moisture: 548
+Date: 2019-05-06
+Time: 18:19Moisture: 548
+Date: 2019-05-06
+Time: 18:49Moisture: 548
+Date: 2019-05-06
+Time: 19:20Moisture: 548
+Date: 2019-05-06
+Time: 19:50Moisture: 548
+Date: 2019-05-06
+Time: 20:20Moisture: 548
+Date: 2019-05-06
+Time: 20:51Moisture: 548
+Date: 2019-05-06
+Time: 21:21Moisture: 548
+Date: 2019-05-06
+Time: 21:51Moisture: 548
+Date: 2019-05-06
+Time: 22:22Moisture: 548
+Date: 2019-05-06
+Time: 22:52Moisture: 548
+Date: 2019-05-06
+Time: 23:22Moisture: 548
+Date: 2019-05-06
+Time: 23:53Moisture: 548
+Date: 2019-05-07
+Time: 00:23Moisture: 548
+Date: 2019-05-07
+Time: 00:53Moisture: 548
+Date: 2019-05-07
+Time: 01:24Moisture: 548
+Date: 2019-05-07
+Time: 01:54Moisture: 548
+Date: 2019-05-07
+Time: 02:24Moisture: 548
+Date: 2019-05-07
+Time: 02:55Moisture: 548
+Date: 2019-05-07
+Time: 03:25Moisture: 548
+Date: 2019-05-07
+Time: 03:55Moisture: 548
+Date: 2019-05-07
+Time: 04:26Moisture: 548
+Date: 2019-05-07
+Time: 04:56Moisture: 548
+Date: 2019-05-07
+Time: 05:26Moisture: 548
+Date: 2019-05-07
+Time: 05:57Moisture: 548
+Date: 2019-05-07
+Time: 06:27Moisture: 548
+Date: 2019-05-07
+Time: 06:57Moisture: 548
+Date: 2019-05-07
+Time: 07:28Moisture: 548
+Date: 2019-05-07
+Time: 07:58Moisture: 548
+Date: 2019-05-07
+Time: 08:28Moisture: 548
+Date: 2019-05-07
+Time: 08:59Moisture: 548
+Date: 2019-05-07
+Time: 09:29Moisture: 548
+Date: 2019-05-07
+Time: 10:00Moisture: 548
+Date: 2019-05-07
+Time: 10:30Moisture: 548
+Date: 2019-05-07
+Time: 11:00Moisture: 548
+Date: 2019-05-07
+Time: 11:31Moisture: 548
+Date: 2019-05-07
+Time: 12:01Moisture: 547
+Date: 2019-05-07
+Time: 12:31Moisture: 548
+Date: 2019-05-07
+Time: 13:02Moisture: 548
+Date: 2019-05-07
+Time: 13:32Moisture: 548
+Date: 2019-05-07
+Time: 14:02Moisture: 548
+Date: 2019-05-07
+Time: 14:33Moisture: 548
+Date: 2019-05-07
+Time: 15:03Moisture: 548
+Date: 2019-05-07
+Time: 15:33Moisture: 547
+Date: 2019-05-07
+Time: 16:04Moisture: 548
+Date: 2019-05-07
+Time: 16:34Moisture: 548
+Date: 2019-05-07
+Time: 17:04Moisture: 548
+Date: 2019-05-07
+Time: 17:35Moisture: 548
+Date: 2019-05-07
+Time: 18:05Moisture: 547
+Date: 2019-05-07
+Time: 18:35Moisture: 548
+Date: 2019-05-07
+Time: 19:06Moisture: 548
+Date: 2019-05-07
+Time: 19:36Moisture: 547
+Date: 2019-05-07
+Time: 20:06Moisture: 547
+Date: 2019-05-07
+Time: 20:37Moisture: 548
+Date: 2019-05-07
+Time: 21:07Moisture: 547
+Date: 2019-05-07
+Time: 21:37Moisture: 547
+Date: 2019-05-07
+Time: 22:08Moisture: 547
+Date: 2019-05-07
+Time: 22:38Moisture: 547
+Date: 2019-05-07
+Time: 23:08Moisture: 547
+Date: 2019-05-07
+Time: 23:39Moisture: 547
+Date: 2019-05-08
+Time: 00:09Moisture: 547
+Date: 2019-05-08
+Time: 00:39Moisture: 547
+Date: 2019-05-08
+Time: 01:10Moisture: 547
+Date: 2019-05-08
+Time: 01:40Moisture: 547
+Date: 2019-05-08
+Time: 02:10Moisture: 548
+Date: 2019-05-08
+Time: 02:41Moisture: 547
+Date: 2019-05-08
+Time: 03:11Moisture: 547
+Date: 2019-05-08
+Time: 03:41Moisture: 547
+Date: 2019-05-08
+Time: 04:12Moisture: 547
+Date: 2019-05-08
+Time: 04:42Moisture: 547
+Date: 2019-05-08
+Time: 05:12Moisture: 547
+Date: 2019-05-08
+Time: 05:43Moisture: 547
+Date: 2019-05-08
+Time: 06:13Moisture: 547
+Date: 2019-05-08
+Time: 06:43Moisture: 547
+Date: 2019-05-08
+Time: 07:14Moisture: 547
+Date: 2019-05-08
+Time: 07:44Moisture: 547
+Date: 2019-05-08
+Time: 08:14Moisture: 547
+Date: 2019-05-08
+Time: 08:45Moisture: 547
+Date: 2019-05-08
+Time: 09:15Moisture: 547
+Date: 2019-05-08
+Time: 09:45Moisture: 547
+Date: 2019-05-08
+Time: 10:16Moisture: 547
+Date: 2019-05-08
+Time: 10:46Moisture: 547
+Date: 2019-05-08
+Time: 11:16Moisture: 547
+Date: 2019-05-08
+Time: 11:47Moisture: 547
+Date: 2019-05-08
+Time: 12:17Moisture: 547
+Date: 2019-05-08
+Time: 12:47Moisture: 547
+Date: 2019-05-08
+Time: 13:18Moisture: 547
+Date: 2019-05-08
+Time: 13:48Moisture: 547
+Date: 2019-05-08
+Time: 14:18Moisture: 547
+Date: 2019-05-08
+Time: 14:49Moisture: 547
+Date: 2019-05-08
+Time: 15:19Moisture: 547
+Date: 2019-05-08
+Time: 15:49Moisture: 547
+Date: 2019-05-08
+Time: 16:20Moisture: 547
+Date: 2019-05-08
+Time: 16:50Moisture: 547
+Date: 2019-05-08
+Time: 17:20Moisture: 547
+Date: 2019-05-08
+Time: 17:51Moisture: 547
+Date: 2019-05-08
+Time: 18:21Moisture: 547
+Date: 2019-05-08
+Time: 18:51Moisture: 546
+Date: 2019-05-08
+Time: 19:22Moisture: 547
+Date: 2019-05-08
+Time: 19:52Moisture: 546
+Date: 2019-05-08
+Time: 20:22Moisture: 547
+Date: 2019-05-08
+Time: 20:53Moisture: 546
+Date: 2019-05-08
+Time: 21:23Moisture: 546
+Date: 2019-05-08
+Time: 21:53Moisture: 547
+Date: 2019-05-08
+Time: 22:24Moisture: 546
+Date: 2019-05-08
+Time: 22:54Moisture: 546
+Date: 2019-05-08
+Time: 23:24Moisture: 547
+Date: 2019-05-08
+Time: 23:55Moisture: 546
+Date: 2019-05-09
+Time: 00:25Moisture: 547
+Date: 2019-05-09
+Time: 00:55Moisture: 547
+Date: 2019-05-09
+Time: 01:26Moisture: 547
+Date: 2019-05-09
+Time: 01:56Moisture: 546
+Date: 2019-05-09
+Time: 02:26Moisture: 546
+Date: 2019-05-09
+Time: 02:57Moisture: 546
+Date: 2019-05-09
+Time: 03:27Moisture: 546
+Date: 2019-05-09
+Time: 03:57Moisture: 546
+Date: 2019-05-09
+Time: 04:28Moisture: 546
+Date: 2019-05-09
+Time: 04:58Moisture: 546
+Date: 2019-05-09
+Time: 05:28Moisture: 546
+Date: 2019-05-09
+Time: 05:59Moisture: 546
+Date: 2019-05-09
+Time: 06:29Moisture: 546
+Date: 2019-05-09
+Time: 06:59Moisture: 546
+Date: 2019-05-09
+Time: 07:30Moisture: 546
+Date: 2019-05-09
+Time: 08:00Moisture: 546
+Date: 2019-05-09
+Time: 08:30Moisture: 546
+Date: 2019-05-09
+Time: 09:01Moisture: 546
+Date: 2019-05-09
+Time: 09:31Moisture: 546
+Date: 2019-05-09
+Time: 10:01Moisture: 546
+Date: 2019-05-09
+Time: 10:32Moisture: 546
+Date: 2019-05-09
+Time: 11:02Moisture: 546
+Date: 2019-05-09
+Time: 11:32Moisture: 546
+Date: 2019-05-09
+Time: 12:03Moisture: 546
+Date: 2019-05-09
+Time: 12:33Moisture: 546
+Date: 2019-05-09
+Time: 13:03Moisture: 546
+Date: 2019-05-09
+Time: 13:34Moisture: 546
+Date: 2019-05-09
+Time: 14:04Moisture: 546
+Date: 2019-05-09
+Time: 14:34Moisture: 546
+Date: 2019-05-09
+Time: 15:05Moisture: 546
+Date: 2019-05-09
+Time: 15:35Moisture: 546
+Date: 2019-05-09
+Time: 16:05Moisture: 546
+Date: 2019-05-09
+Time: 16:36Moisture: 546
+Date: 2019-05-09
+Time: 17:06Moisture: 546
+Date: 2019-05-09
+Time: 17:36Moisture: 546
+Date: 2019-05-09
+Time: 18:07Moisture: 546
+Date: 2019-05-09
+Time: 18:37Moisture: 546
+Date: 2019-05-09
+Time: 19:07Moisture: 546
+Date: 2019-05-09
+Time: 19:38Moisture: 546
+Date: 2019-05-09
+Time: 20:08Moisture: 546
+Date: 2019-05-09
+Time: 20:38Moisture: 546
+Date: 2019-05-09
+Time: 21:09Moisture: 546
+Date: 2019-05-09
+Time: 21:39Moisture: 546
+Date: 2019-05-09
+Time: 22:09Moisture: 546
+Date: 2019-05-09
+Time: 22:40Moisture: 546
+Date: 2019-05-09
+Time: 23:10Moisture: 546
+Date: 2019-05-09
+Time: 23:40Moisture: 546
+Date: 2019-05-10
+Time: 00:11Moisture: 546
+Date: 2019-05-10
+Time: 00:41Moisture: 546
+Date: 2019-05-10
+Time: 01:11Moisture: 546
+Date: 2019-05-10
+Time: 01:42Moisture: 546
+Date: 2019-05-10
+Time: 02:12Moisture: 546
+Date: 2019-05-10
+Time: 02:42Moisture: 546
+Date: 2019-05-10
+Time: 03:13Moisture: 546
+Date: 2019-05-10
+Time: 03:43Moisture: 546
+Date: 2019-05-10
+Time: 04:13Moisture: 546
+Date: 2019-05-10
+Time: 04:44Moisture: 546
+Date: 2019-05-10
+Time: 05:14Moisture: 546
+Date: 2019-05-10
+Time: 05:44Moisture: 546
+Date: 2019-05-10
+Time: 06:15Moisture: 546
+Date: 2019-05-10
+Time: 06:45Moisture: 546
+Date: 2019-05-10
+Time: 07:15Moisture: 546
+Date: 2019-05-10
+Time: 07:46Moisture: 546
+Date: 2019-05-10
+Time: 08:16Moisture: 546
+Date: 2019-05-10
+Time: 08:46Moisture: 546
+Date: 2019-05-10
+Time: 09:17Moisture: 546
+Date: 2019-05-10
+Time: 09:47Moisture: 546
+Date: 2019-05-10
+Time: 10:17Moisture: 546
+Date: 2019-05-10
+Time: 10:48Moisture: 546
+Date: 2019-05-10
+Time: 11:18Moisture: 545
+Date: 2019-05-10
+Time: 11:48Moisture: 546
+Date: 2019-05-10
+Time: 12:19Moisture: 546
+Date: 2019-05-10
+Time: 12:49Moisture: 546
+Date: 2019-05-10
+Time: 13:19Moisture: 546
+Date: 2019-05-10
+Time: 13:50Moisture: 546
+Date: 2019-05-10
+Time: 14:20Moisture: 546
+Date: 2019-05-10
+Time: 14:50Moisture: 546
+Date: 2019-05-10
+Time: 15:21Moisture: 546
+Date: 2019-05-10
+Time: 15:51Moisture: 546
+Date: 2019-05-10
+Time: 16:21Moisture: 546
+Date: 2019-05-10
+Time: 16:52Moisture: 546
+Date: 2019-05-10
+Time: 17:22Moisture: 546
+Date: 2019-05-10
+Time: 17:52Moisture: 546
+Date: 2019-05-10
+Time: 18:23Moisture: 546
+Date: 2019-05-10
+Time: 18:53Moisture: 546
+Date: 2019-05-10
+Time: 19:23Moisture: 546
+Date: 2019-05-10
+Time: 19:54Moisture: 546
+Date: 2019-05-10
+Time: 20:24Moisture: 546
+Date: 2019-05-10
+Time: 20:54Moisture: 546
+Date: 2019-05-10
+Time: 21:25Moisture: 546
+Date: 2019-05-10
+Time: 21:55Moisture: 546
+Date: 2019-05-10
+Time: 22:25Moisture: 546
+Date: 2019-05-10
+Time: 22:56Moisture: 546
+Date: 2019-05-10
+Time: 23:26Moisture: 546
+Date: 2019-05-10
+Time: 23:56Moisture: 546
+Date: 2019-05-11
+Time: 00:27Moisture: 546
+Date: 2019-05-11
+Time: 00:57Moisture: 546
+Date: 2019-05-11
+Time: 01:27Moisture: 546
+Date: 2019-05-11
+Time: 01:58Moisture: 546
+Date: 2019-05-11
+Time: 02:28Moisture: 546
+Date: 2019-05-11
+Time: 02:58Moisture: 546
+Date: 2019-05-11
+Time: 03:29Moisture: 546
+Date: 2019-05-11
+Time: 03:59Moisture: 546
+Date: 2019-05-11
+Time: 04:29Moisture: 546
+Date: 2019-05-11
+Time: 05:00Moisture: 546
+Date: 2019-05-11
+Time: 05:30Moisture: 546
+Date: 2019-05-11
+Time: 06:00Moisture: 546
+Date: 2019-05-11
+Time: 06:31Moisture: 547
+Date: 2019-05-11
+Time: 07:01Moisture: 546
+Date: 2019-05-11
+Time: 07:32Moisture: 546
+Date: 2019-05-11
+Time: 08:02Moisture: 546
+Date: 2019-05-11
+Time: 08:32Moisture: 547
+Date: 2019-05-11
+Time: 09:03Moisture: 546
+Date: 2019-05-11
+Time: 09:33Moisture: 546
+Date: 2019-05-11
+Time: 10:03Moisture: 546
+Date: 2019-05-11
+Time: 10:34Moisture: 547
+Date: 2019-05-11
+Time: 11:04Moisture: 546
+Date: 2019-05-11
+Time: 11:34Moisture: 546
+Date: 2019-05-11
+Time: 12:05Moisture: 546
+Date: 2019-05-11
+Time: 12:35Moisture: 546
+Date: 2019-05-11
+Time: 13:05Moisture: 546
+Date: 2019-05-11
+Time: 13:36Moisture: 546
+Date: 2019-05-11
+Time: 14:06Moisture: 546
+Date: 2019-05-11
+Time: 14:36Moisture: 546
+Date: 2019-05-11
+Time: 15:07Moisture: 546
+Date: 2019-05-11
+Time: 15:37Moisture: 547
+Date: 2019-05-11
+Time: 16:07Moisture: 546
+Date: 2019-05-11
+Time: 16:38Moisture: 546
+Date: 2019-05-11
+Time: 17:08Moisture: 546
+Date: 2019-05-11
+Time: 17:38Moisture: 546
+Date: 2019-05-11
+Time: 18:09Moisture: 547
+Date: 2019-05-11
+Time: 18:39Moisture: 546
+Date: 2019-05-11
+Time: 19:09Moisture: 546
+Date: 2019-05-11
+Time: 19:40Moisture: 546
+Date: 2019-05-11
+Time: 20:10Moisture: 546
+Date: 2019-05-11
+Time: 20:40Moisture: 546
+Date: 2019-05-11
+Time: 21:11Moisture: 546
+Date: 2019-05-11
+Time: 21:41Moisture: 546
+Date: 2019-05-11
+Time: 22:11Moisture: 546
+Date: 2019-05-11
+Time: 22:42Moisture: 546
+Date: 2019-05-11
+Time: 23:12Moisture: 546
+Date: 2019-05-11
+Time: 23:42Moisture: 546
+Date: 2019-05-12
+Time: 00:13Moisture: 546
+Date: 2019-05-12
+Time: 00:43Moisture: 546
+Date: 2019-05-12
+Time: 01:13Moisture: 546
+Date: 2019-05-12
+Time: 01:44Moisture: 546
+Date: 2019-05-12
+Time: 02:14Moisture: 546
+Date: 2019-05-12
+Time: 02:44Moisture: 546
+Date: 2019-05-12
+Time: 03:15Moisture: 546
+Date: 2019-05-12
+Time: 03:45Moisture: 546
+Date: 2019-05-12
+Time: 04:15Moisture: 546
+Date: 2019-05-12
+Time: 04:46Moisture: 546
+Date: 2019-05-12
+Time: 05:16Moisture: 546
+Date: 2019-05-12
+Time: 05:46Moisture: 546
+Date: 2019-05-12
+Time: 06:17Moisture: 546
+Date: 2019-05-12
+Time: 06:47Moisture: 546
+Date: 2019-05-12
+Time: 07:17Moisture: 546
+Date: 2019-05-12
+Time: 07:48Moisture: 546
+Date: 2019-05-12
+Time: 08:18Moisture: 546
+Date: 2019-05-12
+Time: 08:48Moisture: 546
+Date: 2019-05-12
+Time: 09:19Moisture: 546
+Date: 2019-05-12
+Time: 09:49Moisture: 546
+Date: 2019-05-12
+Time: 10:19Moisture: 546
+Date: 2019-05-12
+Time: 10:50Moisture: 546
+Date: 2019-05-12
+Time: 11:20Moisture: 546
+Date: 2019-05-12
+Time: 11:50Moisture: 546
+Date: 2019-05-12
+Time: 12:21Moisture: 546
+Date: 2019-05-12
+Time: 12:51
